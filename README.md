@@ -72,7 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/1kiloghoul7/1kiloghoul7/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
